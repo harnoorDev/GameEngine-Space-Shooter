@@ -13,6 +13,12 @@ Used Bullet shooting system, collision system, kinematic system by implementing 
 Visual Studio, SDL Framework, Some sprites to work with (included in this repo)
 
 ```
+## How to Play 
+
+``` 
+Just run the sln file after downloading the repo as a zip, build and start the application without debugging.
+
+```
 
 ### Steps to install SDL on Visual Studio 
 **In-depth Tutorial available here : https://www.wikihow.com/Set-Up-SDL-with-Visual-Studio-2017#**
