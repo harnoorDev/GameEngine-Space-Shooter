@@ -6,12 +6,6 @@ Added sound effects for firing bullets and when rocket is generating thrust.
 
 Used Bullet shooting system, collision system, kinematic system by implementing 2D Game Engine Physics.
 
-### How to Play
-
-```
-You can safely download the exe in a zipped file to run the game directly on your PC(Windows).
-
-```
 
 ### Prerequisites
 
