@@ -59,8 +59,8 @@ int main(int argc, char* argv[])
 ```
 
 ## Video demo
-![Alt Text](https://media.giphy.com/media/BIFjLXlS2wHyuj3O6X/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/BIFjLXlS2wHyuj3O6X/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/YAhFDKIMuVpviKyAYv/giphy.gif) 
 
 ## Authors
 ```
